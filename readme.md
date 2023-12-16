@@ -1,0 +1,1 @@
+This repository contains code for the project of Memory game for kids using their favourite cartoon characters. The logic for winning this game is finding their matching pair. After finding all the pairs you will win the game. Refresh to restart the game.
